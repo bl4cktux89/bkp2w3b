@@ -103,7 +103,7 @@ Para conhecer um pouco mais sobre essa representação, veja o infográfico abai
 |7|111|[[7]]|7|
 |8|1000|[[8]]|10|
 |9|1001|[[9]]|11|
-|10|1010|[[ORGANIZAR/REFINAR/Redes de Computadores/Arquitetura de Computadores/sistemas de numeração e conversão de bases - conversões; bit e byte (conceituação)/Untitled Database/A]]|12|
+|10|1010|[[organizar/REFINAR/Redes de Computadores/Arquitetura de Computadores/sistemas de numeração e conversão de bases - conversões; bit e byte (conceituação)/Untitled Database/A]]|12|
 
   
   

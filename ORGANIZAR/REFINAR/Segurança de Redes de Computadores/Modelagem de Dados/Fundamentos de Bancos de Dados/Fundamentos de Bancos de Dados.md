@@ -4,4 +4,4 @@
 
 [[Dados como apoio a tomada de decisão]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Modelagem de Dados/Fundamentos de Bancos de Dados/Na prática/Na prática]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Modelagem de Dados/Fundamentos de Bancos de Dados/Na prática/Na prática]]

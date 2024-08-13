@@ -1,4 +1,4 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Modelagem de Dados/Fundamentos de Bancos de Dados/Na prática/Introdução da Aula|Introdução da Aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Modelagem de Dados/Fundamentos de Bancos de Dados/Na prática/Introdução da Aula|Introdução da Aula]]
 
 [[Análise das necessidades do SGBG para empresa de encomendas]]
 

@@ -1,4 +1,4 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/A Virtualização e a Conteinerização/Simulando Sistemas Distribuídos com Docker/Introdução da aula|Introdução da aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/A Virtualização e a Conteinerização/Simulando Sistemas Distribuídos com Docker/Introdução da aula|Introdução da aula]]
 
 [[Conceito e instalação do Docker]]
 
@@ -8,6 +8,6 @@
 
 [[Comando executado dentro do(s) nó(s) Worker e comando executado dentro de cada um dos nós (Managers e Workers)]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/A Virtualização e a Conteinerização/Simulando Sistemas Distribuídos com Docker/Conclusão|Conclusão]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/A Virtualização e a Conteinerização/Simulando Sistemas Distribuídos com Docker/Conclusão|Conclusão]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/A Virtualização e a Conteinerização/Simulando Sistemas Distribuídos com Docker/Referências Bibliográficas|Referências Bibliográficas]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/A Virtualização e a Conteinerização/Simulando Sistemas Distribuídos com Docker/Referências Bibliográficas|Referências Bibliográficas]]

@@ -4,4 +4,4 @@
 
 [[Ferramentas CASE’s de modelagem do diagrama de entidade-relacionamento (DER)]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Modelagem de Dados/Abordagem entidade-relacionamento/Na prática/Na prática|Na prática]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Modelagem de Dados/Abordagem entidade-relacionamento/Na prática/Na prática|Na prática]]

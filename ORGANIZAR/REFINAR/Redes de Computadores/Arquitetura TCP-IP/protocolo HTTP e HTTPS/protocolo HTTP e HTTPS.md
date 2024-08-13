@@ -53,29 +53,29 @@ As requisições feitas ao servidor HTTP são respondidas ao navegador que apres
 |Title|Código|Mensagem|Descrição|
 |---|---|---|---|
 |[[Untitled 12]]|200|OK|O pedido foi realizado corretamente|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 5]]|201|CREATED|Segue um comando POST, indica o sucesso, o corpo do resto do documento deve indicar o URL onde o documento recentemente criado deveria encontrar-se|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 8]]|202|ACCEPTED|O pedido foi aceito, mas o procedimento seguinte não foi realizado|
+|[[organizar/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 5]]|201|CREATED|Segue um comando POST, indica o sucesso, o corpo do resto do documento deve indicar o URL onde o documento recentemente criado deveria encontrar-se|
+|[[organizar/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 8]]|202|ACCEPTED|O pedido foi aceito, mas o procedimento seguinte não foi realizado|
 |[[Untitled 24]]|203|PARTIAL INFORMATION|Quando este código é recebido em resposta a um comando GET, isto indica que a resposta não está completa|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 4]]|204|NO RESPONSE|O servidor recebeu o pedido mas não há informação a ser retornada|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 6]]|205|RESET CONTENT|O servidor indica ao navegador para excluir o conteúdo dos campos de um formulário|
+|[[organizar/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 4]]|204|NO RESPONSE|O servidor recebeu o pedido mas não há informação a ser retornada|
+|[[organizar/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 6]]|205|RESET CONTENT|O servidor indica ao navegador para excluir o conteúdo dos campos de um formulário|
 |[[Untitled 19]]|206|PARTIAL CONTENT|Trata-se de uma resposta a um pedido que comporta o cabeçalho _**range**_. O servidor deve indicar o cabeçalho _**content-range**_|
 |[[Untitled 16]]|**30x**|**Redirecionamento**|**Estes códigos indicam que o recurso não está mais no lugar indicado**|
 |[[Untitled 15]]|301|MOVED|Os dados pedidos foram transferidos para um novo endereço|
 |[[Untitled 20]]|302|FOUND|Os dados pedidos são de um novo URL, mas talvez tenham sido deslocados desde então|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 3]]|303|METHOD|Isto implica que o cliente deve tentar um novo endereço, tentando um outro método além do GET|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 10]]|304|NOT MODIFIED|Se o cliente efetuou um comando GET condicional (perguntando se o documento foi alterado desde a última vez) e se o documento não tiver sido alterado, ele devolve este código|
+|[[organizar/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 3]]|303|METHOD|Isto implica que o cliente deve tentar um novo endereço, tentando um outro método além do GET|
+|[[organizar/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 10]]|304|NOT MODIFIED|Se o cliente efetuou um comando GET condicional (perguntando se o documento foi alterado desde a última vez) e se o documento não tiver sido alterado, ele devolve este código|
 |[[Untitled 13]]|**40x**|**Erro devido ao cliente**|**Estes códigos indicam que o pedido está incorreto**|
 |[[Untitled 23]]|400|BAD REQUEST|A sintaxe do pedido está mal formulada ou impossível de validar|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled]]|401|UNAUTHORIZED|O parâmetro da mensagem dá as especificações das formas de autorização aceitáveis. O cliente deve reformular o seu pedido com os dados de autorização corretos|
+|[[organizar/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled]]|401|UNAUTHORIZED|O parâmetro da mensagem dá as especificações das formas de autorização aceitáveis. O cliente deve reformular o seu pedido com os dados de autorização corretos|
 |[[Untitled 22]]|402|PAYMENT REQUIRED|O cliente deve reformular o seu pedido com os dados de pagamento corretos|
 |[[Untitled 18]]|403|FORBIDDEN|O acesso ao recurso foi recusado|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 9]]|404|NOT FOUND|Muito comum! O servidor não encontrou nada no endereço indicado. Partiram sem deixar endereço|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 11]]|**50x**|**Erro devido ao servidor**|**Estes códigos indicam que houve um erro interno no servidor**|
+|[[organizar/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 9]]|404|NOT FOUND|Muito comum! O servidor não encontrou nada no endereço indicado. Partiram sem deixar endereço|
+|[[organizar/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 11]]|**50x**|**Erro devido ao servidor**|**Estes códigos indicam que houve um erro interno no servidor**|
 |[[Untitled 21]]|500|INTERNAL SERVER ERROR|O servidor encontrou uma condição inesperada que o impediu de satisfazer o pedido|
 |[[Untitled 14]]|501|NOT IMPLEMENTED|O servidor não suporta o serviço pedido|
 |[[Untitled 17]]|502|BAD GATEWAY|O servidor recebeu uma resposta inválida por parte do servidor que tentava acessar agindo como uma passarela ou um proxy|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 2]]|503|SERVICE UNAVAILABLE|O servidor não pode responder no momento, pois o tráfego está muito denso (todas as linhas do seu correspondente estão ocupadas, tente novamente)|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 7]]|504|GATEWAY TIMEOUT|A resposta do servidor demorou muito em relação ao que a gateway foi preparada para recebê-la (o tempo que lhe estava destinado esgotou-se)|
+|[[organizar/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 2]]|503|SERVICE UNAVAILABLE|O servidor não pode responder no momento, pois o tráfego está muito denso (todas as linhas do seu correspondente estão ocupadas, tente novamente)|
+|[[organizar/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolo HTTP e HTTPS/Untitled Database/Untitled 7]]|504|GATEWAY TIMEOUT|A resposta do servidor demorou muito em relação ao que a gateway foi preparada para recebê-la (o tempo que lhe estava destinado esgotou-se)|
 
   
   

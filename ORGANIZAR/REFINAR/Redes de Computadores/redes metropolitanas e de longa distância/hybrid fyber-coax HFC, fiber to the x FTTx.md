@@ -66,15 +66,15 @@ Outro efeito a ser considerado é a atenuação dos cabos coaxiais. Quando um si
 
 |Title|Frequência em MHz|0.500"|0.540"|0.750"|0.860"|
 |---|---|---|---|---|---|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/hybrid fyber-coax HFC, fiber to the x FTTx/Untitled Database/Untitled\|Untitled]]|5|0.52|0.46|0.36|0.3|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/hybrid fyber-coax HFC, fiber to the x FTTx/Untitled Database/Untitled 6\|Untitled 6]]|50|1.71|1.44|1.15|1.02|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/hybrid fyber-coax HFC, fiber to the x FTTx/Untitled Database/Untitled 2\|Untitled 2]]|110|2.49|2.26|1.71|1.51|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/hybrid fyber-coax HFC, fiber to the x FTTx/Untitled Database/Untitled 7\|Untitled 7]]|220|3.64|3.22|2.49|2.13|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/hybrid fyber-coax HFC, fiber to the x FTTx/Untitled Database/Untitled 9\|Untitled 9]]|300|4.3|3.74|2.95|2.49|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/hybrid fyber-coax HFC, fiber to the x FTTx/Untitled Database/Untitled 4\|Untitled 4]]|450|5.35|4.63|3.67|3.12|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/hybrid fyber-coax HFC, fiber to the x FTTx/Untitled Database/Untitled 5\|Untitled 5]]|550|5.97|5.18|4.07|3.48|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/hybrid fyber-coax HFC, fiber to the x FTTx/Untitled Database/Untitled 8\|Untitled 8]]|750|7.12|6.1|5.02|4.07|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/hybrid fyber-coax HFC, fiber to the x FTTx/Untitled Database/Untitled 3\|Untitled 3]]|1000|8.27|7.12|5.84|4.72|
+|[[organizar/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/hybrid fyber-coax HFC, fiber to the x FTTx/Untitled Database/Untitled\|Untitled]]|5|0.52|0.46|0.36|0.3|
+|[[organizar/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/hybrid fyber-coax HFC, fiber to the x FTTx/Untitled Database/Untitled 6\|Untitled 6]]|50|1.71|1.44|1.15|1.02|
+|[[organizar/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/hybrid fyber-coax HFC, fiber to the x FTTx/Untitled Database/Untitled 2\|Untitled 2]]|110|2.49|2.26|1.71|1.51|
+|[[organizar/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/hybrid fyber-coax HFC, fiber to the x FTTx/Untitled Database/Untitled 7\|Untitled 7]]|220|3.64|3.22|2.49|2.13|
+|[[organizar/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/hybrid fyber-coax HFC, fiber to the x FTTx/Untitled Database/Untitled 9\|Untitled 9]]|300|4.3|3.74|2.95|2.49|
+|[[organizar/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/hybrid fyber-coax HFC, fiber to the x FTTx/Untitled Database/Untitled 4\|Untitled 4]]|450|5.35|4.63|3.67|3.12|
+|[[organizar/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/hybrid fyber-coax HFC, fiber to the x FTTx/Untitled Database/Untitled 5\|Untitled 5]]|550|5.97|5.18|4.07|3.48|
+|[[organizar/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/hybrid fyber-coax HFC, fiber to the x FTTx/Untitled Database/Untitled 8\|Untitled 8]]|750|7.12|6.1|5.02|4.07|
+|[[organizar/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/hybrid fyber-coax HFC, fiber to the x FTTx/Untitled Database/Untitled 3\|Untitled 3]]|1000|8.27|7.12|5.84|4.72|
 
   
   

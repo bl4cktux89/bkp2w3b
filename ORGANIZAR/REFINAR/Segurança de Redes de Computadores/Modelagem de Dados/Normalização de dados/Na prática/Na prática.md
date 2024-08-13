@@ -1,4 +1,4 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Modelagem de Dados/Normalização de dados/Na prática/Introdução da Aula|Introdução da Aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Modelagem de Dados/Normalização de dados/Na prática/Introdução da Aula|Introdução da Aula]]
 
 [[Modelagem a partir de um documento para uma loja de material de construção]]
 

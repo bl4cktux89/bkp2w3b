@@ -4,4 +4,4 @@
 
 [[Alinhamento estratégico, monitoramento dos indicadores de desempenho e aperfeiçoamento contínuo do sistema de segurança]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Planejamento Estratégico em Segurança/Gestão estratégica do sistema de segurança/Na Prática|Na Prática]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Planejamento Estratégico em Segurança/Gestão estratégica do sistema de segurança/Na Prática|Na Prática]]

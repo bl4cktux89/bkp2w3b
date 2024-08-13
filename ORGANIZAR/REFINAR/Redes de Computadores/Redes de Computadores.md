@@ -4,7 +4,7 @@
 
 [[Arquitetura TCP-IP]]
 
-[[ORGANIZAR/REFINAR/Redes de Computadores/Comunicação de Dados/Comunicação de Dados]]
+[[organizar/REFINAR/Redes de Computadores/Comunicação de Dados/Comunicação de Dados]]
 
 [[Gestão Sustentável da Inovação em TI]]
 
@@ -34,7 +34,7 @@
 
 [[tecnologias em redes sem fio]]
 
-[[ORGANIZAR/REFINAR/Redes de Computadores/segurança de redes de computadores/segurança de redes de computadores]]
+[[organizar/REFINAR/Redes de Computadores/segurança de redes de computadores/segurança de redes de computadores]]
 
 [[configuração de redes]]
 

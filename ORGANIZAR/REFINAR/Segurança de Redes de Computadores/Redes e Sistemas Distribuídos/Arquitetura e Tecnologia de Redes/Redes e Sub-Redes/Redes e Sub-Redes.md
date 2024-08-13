@@ -1,6 +1,6 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Arquitetura e Tecnologia de Redes/Redes e Sub-Redes/Introdução da Unidade|Introdução da Unidade]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Arquitetura e Tecnologia de Redes/Redes e Sub-Redes/Introdução da Unidade|Introdução da Unidade]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Arquitetura e Tecnologia de Redes/Redes e Sub-Redes/Introdução da Aula|Introdução da Aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Arquitetura e Tecnologia de Redes/Redes e Sub-Redes/Introdução da Aula|Introdução da Aula]]
 
 [[Endereço IP (Internet Protocol)]]
 
@@ -12,4 +12,4 @@
 
 [[DHCP (Dynamic Host Configuration Protocol)]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Arquitetura e Tecnologia de Redes/Redes e Sub-Redes/Conclusão|Conclusão]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Arquitetura e Tecnologia de Redes/Redes e Sub-Redes/Conclusão|Conclusão]]

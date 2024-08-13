@@ -1,4 +1,4 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Arquitetura e Tecnologia de Redes/Gerência de Desempenho, Configuração e Contabilização/Introdução da aula|Introdução da aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Arquitetura e Tecnologia de Redes/Gerência de Desempenho, Configuração e Contabilização/Introdução da aula|Introdução da aula]]
 
 [[Gerência de desempenho]]
 
@@ -12,6 +12,6 @@
 
 [[Introdução ao VLAN Trunk Protocol e acesso remoto - servidor SSH]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Arquitetura e Tecnologia de Redes/Gerência de Desempenho, Configuração e Contabilização/Conclusão|Conclusão]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Arquitetura e Tecnologia de Redes/Gerência de Desempenho, Configuração e Contabilização/Conclusão|Conclusão]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Arquitetura e Tecnologia de Redes/Gerência de Desempenho, Configuração e Contabilização/Referências Bibliográficas|Referências Bibliográficas]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Arquitetura e Tecnologia de Redes/Gerência de Desempenho, Configuração e Contabilização/Referências Bibliográficas|Referências Bibliográficas]]

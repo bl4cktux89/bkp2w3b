@@ -49,27 +49,27 @@ Algumas respostas típicas, junto com suas possíveis mensagens, são as seguint
 |[[APPE]]|Anexar arquivo para o arquivo de mesmo nome no servidor.|
 |[[CDUP]]|Mude para o diretório principal no servidor.|
 |[[CWD]]|Altere o diretório de trabalho no servidor.|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/aplicações em redes de computadores/transferência de arquivos- FTP e TFTP/Untitled Database/DELE]]|Excluir arquivo especificado no servidor.|
+|[[organizar/REFINAR/Redes de Computadores/aplicações em redes de computadores/transferência de arquivos- FTP e TFTP/Untitled Database/DELE]]|Excluir arquivo especificado no servidor.|
 |[[AJUDA]]|Retorna informação sobre comando especificado.|
 |[[LISTA]]|Lista informações se o nome é um arquivos de arquivos ou lista se o nome é um diretório.|
 |[[Modo]]|Modo de transferência (S = córrego, B = bloco, C = comprimido).|
 |[[MKD]]|Criar diretório especificado no servidor.|
 |[[NLST]]|Listar o conteúdo do diretório especificado.|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/aplicações em redes de computadores/transferência de arquivos- FTP e TFTP/Untitled Database/NOOP]]|Porque nenhum outro do que a confirmação do servidor ação.|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/aplicações em redes de computadores/transferência de arquivos- FTP e TFTP/Untitled Database/PASS]]|Senha para o sistema de log-in.|
+|[[organizar/REFINAR/Redes de Computadores/aplicações em redes de computadores/transferência de arquivos- FTP e TFTP/Untitled Database/NOOP]]|Porque nenhum outro do que a confirmação do servidor ação.|
+|[[organizar/REFINAR/Redes de Computadores/aplicações em redes de computadores/transferência de arquivos- FTP e TFTP/Untitled Database/PASS]]|Senha para o sistema de log-in.|
 |[[PASV]]|Espera servidor pedido de conexão de dados.|
 |[[PORT]]|Endereço IP e de dois bytes porta do sistema ID.|
 |[[PWD]]|Mostrar diretório de trabalho atual.|
 |[[SAIR]]|Faça logoff do servidor FTP.|
 |[[REIN]]|Reinitialize conexão para log-in status.|
 |[[DESCANSO]]|Transferência de arquivos Reiniciar dado offset.|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/aplicações em redes de computadores/transferência de arquivos- FTP e TFTP/Untitled Database/RETR]]|Recuperar arquivo (cópia) do servidor.|
+|[[organizar/REFINAR/Redes de Computadores/aplicações em redes de computadores/transferência de arquivos- FTP e TFTP/Untitled Database/RETR]]|Recuperar arquivo (cópia) do servidor.|
 |[[RMD]]|Remover diretório especificado no servidor.|
 |[[RNFR]]|Mudar o nome de caminho de idade.|
 |[[RNTO]]|Mudar o nome para novo caminho.|
 |[[SITE]]|Parâmetros específicos de locais fornecidas pelo servidor.|
 |[[SMNT]]|Montar a estrutura do arquivo especificado.|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/aplicações em redes de computadores/transferência de arquivos- FTP e TFTP/Untitled Database/STAT]]|Retorna informação sobre o processo ou o diretório atual.|
+|[[organizar/REFINAR/Redes de Computadores/aplicações em redes de computadores/transferência de arquivos- FTP e TFTP/Untitled Database/STAT]]|Retorna informação sobre o processo ou o diretório atual.|
 |[[STOR]]|Store (cópia) do arquivo para o servidor.|
 |[[STOU]]|Arquivo de armazenamento de nome do servidor.|
 |[[STRU]]|Estrutura de dados (F = arquivo, R = registro, P = página).|
@@ -116,14 +116,14 @@ Mensagens FTP são respostas aos comandos FTP e consistem de um código de resp
 |452|[[Espaço em disco insuficiente]]|
 |500|[[Comando inválido]]|
 |501|[[Mau parâmetro]]|
-|502|[[ORGANIZAR/REFINAR/Redes de Computadores/aplicações em redes de computadores/transferência de arquivos- FTP e TFTP/Untitled Database/Não comandar implementado]]|
+|502|[[organizar/REFINAR/Redes de Computadores/aplicações em redes de computadores/transferência de arquivos- FTP e TFTP/Untitled Database/Não comandar implementado]]|
 |503|[[Bad seqüência de comandos]]|
 |504|[[Parâmetro inválido para o comando]]|
 |530|[[Não está logado na rede]]|
 |532|[[Precisa de conta para armazenar arquivos]]|
 |550|[[Arquivo não disponível]]|
 |551|[[Tipo de página desconhecido]]|
-|552|[[ORGANIZAR/REFINAR/Redes de Computadores/aplicações em redes de computadores/transferência de arquivos- FTP e TFTP/Untitled Database/Alocação de armazenamento excedida]]|
+|552|[[organizar/REFINAR/Redes de Computadores/aplicações em redes de computadores/transferência de arquivos- FTP e TFTP/Untitled Database/Alocação de armazenamento excedida]]|
 |553|[[O nome do arquivo não é permitido]]|
 
   

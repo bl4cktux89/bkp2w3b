@@ -1,4 +1,4 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Modelagem de Dados/Fundamentos de Bancos de Dados/Banco de Dados Relacional/Introdução da Aula|Introdução da Aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Modelagem de Dados/Fundamentos de Bancos de Dados/Banco de Dados Relacional/Introdução da Aula|Introdução da Aula]]
 
 [[Modelagem de uma base de dados]]
 
@@ -6,4 +6,4 @@
 
 [[O papel do administrador do banco de dados]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Modelagem de Dados/Fundamentos de Bancos de Dados/Banco de Dados Relacional/Conclusão|Conclusão]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Modelagem de Dados/Fundamentos de Bancos de Dados/Banco de Dados Relacional/Conclusão|Conclusão]]

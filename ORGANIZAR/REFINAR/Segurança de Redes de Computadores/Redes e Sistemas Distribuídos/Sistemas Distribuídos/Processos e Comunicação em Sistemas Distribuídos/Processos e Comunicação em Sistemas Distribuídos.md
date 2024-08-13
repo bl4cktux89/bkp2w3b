@@ -1,4 +1,4 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Sistemas Distribuídos/Processos e Comunicação em Sistemas Distribuídos/Introdução da aula|Introdução da aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Sistemas Distribuídos/Processos e Comunicação em Sistemas Distribuídos/Introdução da aula|Introdução da aula]]
 
 [[Processos e threads]]
 
@@ -8,4 +8,4 @@
 
 [[Conceitos de sockets]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Sistemas Distribuídos/Processos e Comunicação em Sistemas Distribuídos/Conclusão|Conclusão]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Sistemas Distribuídos/Processos e Comunicação em Sistemas Distribuídos/Conclusão|Conclusão]]

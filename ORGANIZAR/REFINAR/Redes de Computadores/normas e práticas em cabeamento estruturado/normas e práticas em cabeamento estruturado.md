@@ -1,10 +1,10 @@
-[[ORGANIZAR/REFINAR/Redes de Computadores/normas e práticas em cabeamento estruturado/conceitos iniciais]]
+[[organizar/REFINAR/Redes de Computadores/normas e práticas em cabeamento estruturado/conceitos iniciais]]
 
 [[redes heterogêneas de serviços em tecnologia de cabeamento estruturado]]
 
-[[ORGANIZAR/REFINAR/Redes de Computadores/normas e práticas em cabeamento estruturado/normativa ANSI-TIA-EIA 569B – commercial building standard for telecommunications pathways and spaces]]
+[[organizar/REFINAR/Redes de Computadores/normas e práticas em cabeamento estruturado/normativa ANSI-TIA-EIA 569B – commercial building standard for telecommunications pathways and spaces]]
 
-[[ORGANIZAR/REFINAR/Redes de Computadores/normas e práticas em cabeamento estruturado/normativa ANSI-TIA-EIA 569B – commercial building standard for telecommunications pathways and spaces|normativa ANSI-TIA-EIA 569B – commercial building standard for telecommunications pathways and spaces]]
+[[organizar/REFINAR/Redes de Computadores/normas e práticas em cabeamento estruturado/normativa ANSI-TIA-EIA 569B – commercial building standard for telecommunications pathways and spaces|normativa ANSI-TIA-EIA 569B – commercial building standard for telecommunications pathways and spaces]]
 
 [[normativa ANSI-TIA 568C – commercial building telecommunications cabling standard]]
 

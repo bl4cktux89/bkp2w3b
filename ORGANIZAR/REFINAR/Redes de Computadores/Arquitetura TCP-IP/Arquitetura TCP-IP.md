@@ -16,7 +16,7 @@
 
 [[NAT IPv4]]
 
-[[ORGANIZAR/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolos de roteamento]]
+[[organizar/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolos de roteamento]]
 
 [[camada de transporte- protocolos TCP e UDP]]
 
@@ -30,12 +30,12 @@
 
 [[atribuição de endereço IP (DHCP)]]
 
-[[ORGANIZAR/REFINAR/Redes de Computadores/Arquitetura TCP-IP/correio eletrônico- protocolos e aplicações/correio eletrônico- protocolos e aplicações]]
+[[organizar/REFINAR/Redes de Computadores/Arquitetura TCP-IP/correio eletrônico- protocolos e aplicações/correio eletrônico- protocolos e aplicações]]
 
 [[protocolos de transferência de arquivo- TFTP e FTP]]
 
 [[protocolo HTTP e HTTPS]]
 
-[[ORGANIZAR/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolos de roteamento|protocolos de roteamento]]
+[[organizar/REFINAR/Redes de Computadores/Arquitetura TCP-IP/protocolos de roteamento|protocolos de roteamento]]
 
 [[aplicações peer to peer e em nuvem]]

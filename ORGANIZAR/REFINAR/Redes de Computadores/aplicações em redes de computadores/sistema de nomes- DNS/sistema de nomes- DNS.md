@@ -61,7 +61,7 @@ O protocolo DNS funciona em uma arquitetura tipo cliente-servidor onde a estaç�
 |Tipo|Significado|Valor|
 |---|---|---|
 |[[SOA]]|início da autoridade|parâmetros para essa zona|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/aplicações em redes de computadores/sistema de nomes- DNS/Untitled Database/A\|A]]|endereço de IPv4 de um host|inteiro de32 bits|
+|[[organizar/REFINAR/Redes de Computadores/aplicações em redes de computadores/sistema de nomes- DNS/Untitled Database/A\|A]]|endereço de IPv4 de um host|inteiro de32 bits|
 |[[AAAA]]|endereço de IPv6 de um host|inteiro de 128 bits|
 |[[MX]]|troca de mensagens de correio|prioridade, domínio disposto a aceitar correio eletrônico|
 |[[NS]]|servidor de nomes|nome de um servidor de domínio|

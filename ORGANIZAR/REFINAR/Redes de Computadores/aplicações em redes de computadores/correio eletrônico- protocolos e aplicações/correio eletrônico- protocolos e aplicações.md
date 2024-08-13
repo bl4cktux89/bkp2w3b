@@ -139,7 +139,7 @@ Comandos SMTP comandos são mensagens ASCII enviados entre hosts SMTP. Comando
 |[[HELO]]|Retorna identidade do servidor de correio.|
 |[[HELP 2]]|Retorna informações sobre o comando especificado.|
 |[[MAIL FROM]]|Inicia uma sessão de correio de host.|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/aplicações em redes de computadores/correio eletrônico- protocolos e aplicações/Untitled Database/NOOP\|NOOP]]|Faz com que nenhuma ação, a não ser a confirmação do servidor.|
+|[[organizar/REFINAR/Redes de Computadores/aplicações em redes de computadores/correio eletrônico- protocolos e aplicações/Untitled Database/NOOP\|NOOP]]|Faz com que nenhuma ação, a não ser a confirmação do servidor.|
 |[[QUIT 2]]|Encerra a sessão mail.|
 |[[RCPT TO]]|Designa que recebe mail.|
 |[[RSET]]|Redefine conexão mail.|
@@ -169,12 +169,12 @@ Mensagens de mensagens de resposta SMTP consistem de um código de resposta, se
 |452|[[Sistema de armazenamento insuficiente]]|
 |500|[[Comando desconhecido]]|
 |501|[[Mal parâmetro]]|
-|502|[[ORGANIZAR/REFINAR/Redes de Computadores/aplicações em redes de computadores/correio eletrônico- protocolos e aplicações/Untitled Database/Não comandar implementado\|Não comandar implementado]]|
+|502|[[organizar/REFINAR/Redes de Computadores/aplicações em redes de computadores/correio eletrônico- protocolos e aplicações/Untitled Database/Não comandar implementado\|Não comandar implementado]]|
 |503|[[Sequência incorreta de comandos]]|
 |504|[[Parâmetro não implementado]]|
 |550|[[Caixa postal não encontrada]]|
 |551|[[Usuário não local, tente]]|
-|552|[[ORGANIZAR/REFINAR/Redes de Computadores/aplicações em redes de computadores/correio eletrônico- protocolos e aplicações/Untitled Database/Alocação de armazenamento excedida\|Alocação de armazenamento excedida]]|
+|552|[[organizar/REFINAR/Redes de Computadores/aplicações em redes de computadores/correio eletrônico- protocolos e aplicações/Untitled Database/Alocação de armazenamento excedida\|Alocação de armazenamento excedida]]|
 |553|[[Caixa postal nome não permitida]]|
 |554|[[Mail falha na transação do e-mail]]|
 
@@ -220,10 +220,10 @@ Tal como no caso do protocolo SMTP, o protocolo POP (POP2 e POP3) funciona graç
 |Comandos POP3|Descrição|
 |---|---|
 |[[USER]]|Este comando permite a autenticação. Deve ser seguido do nome do utilizador, quer dizer, uma cadeia de caracteres que identificam o utilizador no servidor. O comando USER deve preceder o comando PASS.|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/aplicações em redes de computadores/correio eletrônico- protocolos e aplicações/Untitled Database/PASS\|PASS]]|O comando PASS, permite indicar a palavra-passe do utilizador, cujo nome foi especificado aquando de um comando USER prévio.|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/aplicações em redes de computadores/correio eletrônico- protocolos e aplicações/Untitled Database/STAT\|STAT]]|Informação sobre as mensagens contidas no servidor|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/aplicações em redes de computadores/correio eletrônico- protocolos e aplicações/Untitled Database/RETR\|RETR]]|Número da mensagem a recuperar|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/aplicações em redes de computadores/correio eletrônico- protocolos e aplicações/Untitled Database/DELE\|DELE]]|Número da mensagem a suprimir|
+|[[organizar/REFINAR/Redes de Computadores/aplicações em redes de computadores/correio eletrônico- protocolos e aplicações/Untitled Database/PASS\|PASS]]|O comando PASS, permite indicar a palavra-passe do utilizador, cujo nome foi especificado aquando de um comando USER prévio.|
+|[[organizar/REFINAR/Redes de Computadores/aplicações em redes de computadores/correio eletrônico- protocolos e aplicações/Untitled Database/STAT\|STAT]]|Informação sobre as mensagens contidas no servidor|
+|[[organizar/REFINAR/Redes de Computadores/aplicações em redes de computadores/correio eletrônico- protocolos e aplicações/Untitled Database/RETR\|RETR]]|Número da mensagem a recuperar|
+|[[organizar/REFINAR/Redes de Computadores/aplicações em redes de computadores/correio eletrônico- protocolos e aplicações/Untitled Database/DELE\|DELE]]|Número da mensagem a suprimir|
 |[[LIST msg]]|Número da mensagem a afixar|
 |[[NOOP 2]]|Permite deixar a ligação aberta no caso de inatividade|
 |[[TOP]]|Comando que afixa n linhas da mensagem, cujo número é dado em argumento. No caso de resposta positiva do servidor, este devolve os cabeçalhos da mensagem, seguidamente uma linha virgem e por último as n primeiras linhas da mensagem.|

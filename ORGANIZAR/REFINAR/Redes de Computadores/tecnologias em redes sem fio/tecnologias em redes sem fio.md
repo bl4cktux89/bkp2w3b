@@ -1,4 +1,4 @@
-[[ORGANIZAR/REFINAR/Redes de Computadores/tecnologias em redes sem fio/conceitos iniciais|conceitos iniciais]]
+[[organizar/REFINAR/Redes de Computadores/tecnologias em redes sem fio/conceitos iniciais|conceitos iniciais]]
 
   
 

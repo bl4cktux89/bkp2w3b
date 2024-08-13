@@ -4,4 +4,4 @@
 
 [[Planejamento estratégico empresarial]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Planejamento Estratégico em Segurança/Pensamento Estratégico - Noções de Planejamento Estratégico/Na Prática|Na Prática]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Planejamento Estratégico em Segurança/Pensamento Estratégico - Noções de Planejamento Estratégico/Na Prática|Na Prática]]

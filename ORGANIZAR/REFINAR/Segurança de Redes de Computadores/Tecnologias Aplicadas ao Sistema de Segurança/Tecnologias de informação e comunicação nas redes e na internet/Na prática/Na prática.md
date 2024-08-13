@@ -1,4 +1,4 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias de informação e comunicação nas redes e na internet/Na prática/Introdução da Aula|Introdução da Aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias de informação e comunicação nas redes e na internet/Na prática/Introdução da Aula|Introdução da Aula]]
 
 [[Classificando as memórias]]
 
@@ -12,4 +12,4 @@
 
 [[A mensagem foi burlada - Resolução]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias de informação e comunicação nas redes e na internet/Na prática/Referências bibliográficas|Referências bibliográficas]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias de informação e comunicação nas redes e na internet/Na prática/Referências bibliográficas|Referências bibliográficas]]

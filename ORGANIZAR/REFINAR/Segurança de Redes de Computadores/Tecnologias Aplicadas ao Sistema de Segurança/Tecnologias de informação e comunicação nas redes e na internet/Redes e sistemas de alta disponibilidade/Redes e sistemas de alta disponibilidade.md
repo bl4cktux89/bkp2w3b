@@ -1,4 +1,4 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias de informação e comunicação nas redes e na internet/Redes e sistemas de alta disponibilidade/Introdução da Aula|Introdução da Aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias de informação e comunicação nas redes e na internet/Redes e sistemas de alta disponibilidade/Introdução da Aula|Introdução da Aula]]
 
 [[Telecomunicação e Redes]]
 
@@ -8,4 +8,4 @@
 
 [[Alta disponibilidade]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias de informação e comunicação nas redes e na internet/Redes e sistemas de alta disponibilidade/Conclusão|Conclusão]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias de informação e comunicação nas redes e na internet/Redes e sistemas de alta disponibilidade/Conclusão|Conclusão]]

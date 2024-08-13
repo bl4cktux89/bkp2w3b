@@ -1,6 +1,6 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Planejamento Estratégico em Segurança/Pensamento Estratégico - Noções de Planejamento Estratégico/Introdução ao pensamento estratégico/Introdução da Unidade|Introdução da Unidade]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Planejamento Estratégico em Segurança/Pensamento Estratégico - Noções de Planejamento Estratégico/Introdução ao pensamento estratégico/Introdução da Unidade|Introdução da Unidade]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Planejamento Estratégico em Segurança/Pensamento Estratégico - Noções de Planejamento Estratégico/Introdução ao pensamento estratégico/Introdução da Aula|Introdução da Aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Planejamento Estratégico em Segurança/Pensamento Estratégico - Noções de Planejamento Estratégico/Introdução ao pensamento estratégico/Introdução da Aula|Introdução da Aula]]
 
 [[Gestão estratégica]]
 
@@ -12,4 +12,4 @@
 
 [[5W2H]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Planejamento Estratégico em Segurança/Pensamento Estratégico - Noções de Planejamento Estratégico/Introdução ao pensamento estratégico/Conclusão|Conclusão]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Planejamento Estratégico em Segurança/Pensamento Estratégico - Noções de Planejamento Estratégico/Introdução ao pensamento estratégico/Conclusão|Conclusão]]

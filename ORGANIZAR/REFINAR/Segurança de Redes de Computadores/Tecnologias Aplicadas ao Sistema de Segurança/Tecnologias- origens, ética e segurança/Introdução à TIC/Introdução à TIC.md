@@ -1,4 +1,4 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias- origens, ética e segurança/Introdução à TIC/Introdução da Aula|Introdução da Aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias- origens, ética e segurança/Introdução à TIC/Introdução da Aula|Introdução da Aula]]
 
 [[Introdução à teoria da comunicação]]
 
@@ -6,4 +6,4 @@
 
 [[Tecnologia da informação]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias- origens, ética e segurança/Introdução à TIC/Conclusão|Conclusão]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias- origens, ética e segurança/Introdução à TIC/Conclusão|Conclusão]]

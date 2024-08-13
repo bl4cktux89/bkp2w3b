@@ -1,4 +1,4 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Sistemas Distribuídos/Aspectos de Projetos dos Sistemas Distribuídos/Introdução da aula|Introdução da aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Sistemas Distribuídos/Aspectos de Projetos dos Sistemas Distribuídos/Introdução da aula|Introdução da aula]]
 
 [[Objetivos dos sistemas distribuídos, Abertura e Concorrência]]
 
@@ -8,6 +8,6 @@
 
 [[Tolerâncias a falhas e Transparência]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Sistemas Distribuídos/Aspectos de Projetos dos Sistemas Distribuídos/Conclusão|Conclusão]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Sistemas Distribuídos/Aspectos de Projetos dos Sistemas Distribuídos/Conclusão|Conclusão]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Sistemas Distribuídos/Aspectos de Projetos dos Sistemas Distribuídos/Referências Bibliográficas|Referências Bibliográficas]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Sistemas Distribuídos/Aspectos de Projetos dos Sistemas Distribuídos/Referências Bibliográficas|Referências Bibliográficas]]

@@ -1,4 +1,4 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias aplicadas na segurança pública/Na prática/Introdução da Aula|Introdução da Aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias aplicadas na segurança pública/Na prática/Introdução da Aula|Introdução da Aula]]
 
 [[Decifrando o código]]
 
@@ -12,4 +12,4 @@
 
 [[Ajudando a preservar contra o desmatamento predatório - Resolução]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias aplicadas na segurança pública/Na prática/Referências bibliográficas|Referências bibliográficas]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias aplicadas na segurança pública/Na prática/Referências bibliográficas|Referências bibliográficas]]

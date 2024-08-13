@@ -1,4 +1,4 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias aplicadas na segurança privada/Aplicações da TIC na segurança privada/Introdução da Aula|Introdução da Aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias aplicadas na segurança privada/Aplicações da TIC na segurança privada/Introdução da Aula|Introdução da Aula]]
 
 [[Localizador de Veículos]]
 
@@ -8,4 +8,4 @@
 
 [[Reconhecimento Facial na Segurança Privada]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias aplicadas na segurança privada/Aplicações da TIC na segurança privada/Conclusão|Conclusão]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias aplicadas na segurança privada/Aplicações da TIC na segurança privada/Conclusão|Conclusão]]

@@ -132,8 +132,8 @@ Fonte: (PINHEIRO, 2004)
 |[[E2]]|
 |[[E3]]|
 |[[E4]]|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/sistemas de telefonia celular/Untitled Database/Untitled 2\|Untitled 2]]|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/sistemas de telefonia celular/Untitled Database/Untitled\|Untitled]]|
+|[[organizar/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/sistemas de telefonia celular/Untitled Database/Untitled 2\|Untitled 2]]|
+|[[organizar/REFINAR/Redes de Computadores/redes metropolitanas e de longa distância/sistemas de telefonia celular/Untitled Database/Untitled\|Untitled]]|
 
   
   

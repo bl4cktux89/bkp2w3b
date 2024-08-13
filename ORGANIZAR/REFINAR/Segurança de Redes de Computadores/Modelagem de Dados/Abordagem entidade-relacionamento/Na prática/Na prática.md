@@ -1,4 +1,4 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Modelagem de Dados/Abordagem entidade-relacionamento/Na prática/Introdução da Aula|Introdução da Aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Modelagem de Dados/Abordagem entidade-relacionamento/Na prática/Introdução da Aula|Introdução da Aula]]
 
 [[DER para uma biblioteca comunitária]]
 

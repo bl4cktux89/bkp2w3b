@@ -1,4 +1,4 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/A Virtualização e a Conteinerização/Conteinerização/Introdução da aula|Introdução da aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/A Virtualização e a Conteinerização/Conteinerização/Introdução da aula|Introdução da aula]]
 
 [[Conceito de conteinerização]]
 
@@ -6,4 +6,4 @@
 
 [[O papel da conteinerização em sistemas distribuídos]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/A Virtualização e a Conteinerização/Conteinerização/Conclusão|Conclusão]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/A Virtualização e a Conteinerização/Conteinerização/Conclusão|Conclusão]]

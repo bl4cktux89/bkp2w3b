@@ -1,4 +1,4 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias- origens, ética e segurança/Desenvolvimento tecnológico e a evolução do computador/Introdução da Aula|Introdução da Aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias- origens, ética e segurança/Desenvolvimento tecnológico e a evolução do computador/Introdução da Aula|Introdução da Aula]]
 
 [[Início da tecnologia]]
 
@@ -10,4 +10,4 @@
 
 [[Utilização da tecnologia e repercussão social]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias- origens, ética e segurança/Desenvolvimento tecnológico e a evolução do computador/Conclusão|Conclusão]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias- origens, ética e segurança/Desenvolvimento tecnológico e a evolução do computador/Conclusão|Conclusão]]

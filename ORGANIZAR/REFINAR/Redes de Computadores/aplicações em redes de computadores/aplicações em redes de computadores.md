@@ -14,7 +14,7 @@
 
 [[transferência de arquivos- FTP e TFTP]]
 
-[[ORGANIZAR/REFINAR/Redes de Computadores/aplicações em redes de computadores/correio eletrônico- protocolos e aplicações/correio eletrônico- protocolos e aplicações|correio eletrônico- protocolos e aplicações]]
+[[organizar/REFINAR/Redes de Computadores/aplicações em redes de computadores/correio eletrônico- protocolos e aplicações/correio eletrônico- protocolos e aplicações|correio eletrônico- protocolos e aplicações]]
 
 [[web- HTTP e HTTPS]]
 

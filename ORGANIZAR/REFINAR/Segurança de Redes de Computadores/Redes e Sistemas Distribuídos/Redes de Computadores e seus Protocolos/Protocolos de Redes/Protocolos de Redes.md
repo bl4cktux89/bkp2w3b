@@ -12,6 +12,6 @@
 
 [[Protocolos da Camada de Host de Rede e Protocolos CSMA]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Redes de Computadores e seus Protocolos/Protocolos de Redes/Conclusão|Conclusão]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Redes de Computadores e seus Protocolos/Protocolos de Redes/Conclusão|Conclusão]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Redes de Computadores e seus Protocolos/Protocolos de Redes/Referências Bibliográficas]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Redes de Computadores e seus Protocolos/Protocolos de Redes/Referências Bibliográficas]]

@@ -1,6 +1,6 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias de informação e comunicação nas redes e na internet/Componentes básicos da TIC/Introdução da Unidade|Introdução da Unidade]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias de informação e comunicação nas redes e na internet/Componentes básicos da TIC/Introdução da Unidade|Introdução da Unidade]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias de informação e comunicação nas redes e na internet/Componentes básicos da TIC/Introdução da Aula|Introdução da Aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias de informação e comunicação nas redes e na internet/Componentes básicos da TIC/Introdução da Aula|Introdução da Aula]]
 
 [[Noções Básicas de Unidade de Processamento]]
 
@@ -10,4 +10,4 @@
 
 [[Noções básicas de sistema operacional]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias de informação e comunicação nas redes e na internet/Componentes básicos da TIC/Conclusão|Conclusão]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias de informação e comunicação nas redes e na internet/Componentes básicos da TIC/Conclusão|Conclusão]]

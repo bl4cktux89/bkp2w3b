@@ -60,17 +60,17 @@ Tabela 1 - Codificaçao PCM de um sinal de telefonia.
 
 |Title|Valor decimal|Sinal-magnitude|
 |---|---|---|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 4\|Untitled 4]]|127|11111111|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 9\|Untitled 9]]|96|11100000|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 6\|Untitled 6]]|64|11000000|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 3\|Untitled 3]]|32|10100000|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 7\|Untitled 7]]|0|10000000|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 2\|Untitled 2]]|0|0|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 10\|Untitled 10]]|-32|100000|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 8\|Untitled 8]]|-64|1000000|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 11\|Untitled 11]]|-96|1100000|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 5\|Untitled 5]]|-126|1111110|
-|[[ORGANIZAR/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled\|Untitled]]|-127|1111111|
+|[[organizar/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 4\|Untitled 4]]|127|11111111|
+|[[organizar/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 9\|Untitled 9]]|96|11100000|
+|[[organizar/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 6\|Untitled 6]]|64|11000000|
+|[[organizar/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 3\|Untitled 3]]|32|10100000|
+|[[organizar/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 7\|Untitled 7]]|0|10000000|
+|[[organizar/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 2\|Untitled 2]]|0|0|
+|[[organizar/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 10\|Untitled 10]]|-32|100000|
+|[[organizar/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 8\|Untitled 8]]|-64|1000000|
+|[[organizar/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 11\|Untitled 11]]|-96|1100000|
+|[[organizar/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled 5\|Untitled 5]]|-126|1111110|
+|[[organizar/REFINAR/Redes de Computadores/Comunicação de Dados/modulação PAM (pulse amplitude modulation) e PCM (pulse code modulation)/Untitled Database/Untitled\|Untitled]]|-127|1111111|
 
   
   

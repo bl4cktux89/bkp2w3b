@@ -4,4 +4,4 @@
 
 [[Sistemas e informações na segurança pública]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Sistemas de Informação em Segurança/Sistemas e informações na segurança pública e privada/Na prática|Na prática]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Sistemas de Informação em Segurança/Sistemas e informações na segurança pública e privada/Na prática|Na prática]]

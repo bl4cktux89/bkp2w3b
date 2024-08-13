@@ -1,4 +1,4 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias aplicadas na segurança privada/Na prática/Introdução da Aula|Introdução da Aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias aplicadas na segurança privada/Na prática/Introdução da Aula|Introdução da Aula]]
 
 [[Impedindo a coletivização da senha]]
 
@@ -12,4 +12,4 @@
 
 [[Melhorando a segurança do transporte de cargas - Resolução]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias aplicadas na segurança privada/Na prática/Referências bibliográficas|Referências bibliográficas]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Tecnologias Aplicadas ao Sistema de Segurança/Tecnologias aplicadas na segurança privada/Na prática/Referências bibliográficas|Referências bibliográficas]]

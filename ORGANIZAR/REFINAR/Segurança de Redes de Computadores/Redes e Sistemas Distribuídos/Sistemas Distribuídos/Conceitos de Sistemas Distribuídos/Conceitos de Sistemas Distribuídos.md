@@ -1,6 +1,6 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Sistemas Distribuídos/Conceitos de Sistemas Distribuídos/Introdução da Unidade|Introdução da Unidade]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Sistemas Distribuídos/Conceitos de Sistemas Distribuídos/Introdução da Unidade|Introdução da Unidade]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Sistemas Distribuídos/Conceitos de Sistemas Distribuídos/Introdução da aula|Introdução da aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Sistemas Distribuídos/Conceitos de Sistemas Distribuídos/Introdução da aula|Introdução da aula]]
 
 [[Definição e exemplos de sistemas distribuídos]]
 
@@ -14,4 +14,4 @@
 
 [[Sincronização de relógios]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Sistemas Distribuídos/Conceitos de Sistemas Distribuídos/Conclusão|Conclusão]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/Sistemas Distribuídos/Conceitos de Sistemas Distribuídos/Conclusão|Conclusão]]

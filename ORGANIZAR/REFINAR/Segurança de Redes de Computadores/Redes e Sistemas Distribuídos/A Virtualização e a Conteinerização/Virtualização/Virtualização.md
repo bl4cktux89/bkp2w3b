@@ -1,6 +1,6 @@
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/A Virtualização e a Conteinerização/Virtualização/Introdução da Unidade|Introdução da Unidade]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/A Virtualização e a Conteinerização/Virtualização/Introdução da Unidade|Introdução da Unidade]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/A Virtualização e a Conteinerização/Virtualização/Introdução da aula|Introdução da aula]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/A Virtualização e a Conteinerização/Virtualização/Introdução da aula|Introdução da aula]]
 
 [[Objetivo da virtualização]]
 
@@ -8,4 +8,4 @@
 
 [[O papel da virtualização em sistemas distribuídos]]
 
-[[ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/A Virtualização e a Conteinerização/Virtualização/Conclusão|Conclusão]]
+[[organizar/REFINAR/Segurança de Redes de Computadores/Redes e Sistemas Distribuídos/A Virtualização e a Conteinerização/Virtualização/Conclusão|Conclusão]]
