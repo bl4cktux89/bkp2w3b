@@ -105,13 +105,13 @@ Depois de tudo que foi apresentado, você deve estar se perguntando: "Afinal, po
 
 > O protocolo IP foi projetado para o uso em sistemas baseados em comutação de pacotes e o seu escopo é atender as necessidades básicas para entregar dados partindo de uma origem em direção a um destino.
 
-![[Untitled 82.png|Untitled 82.png]]
+![[cabecalho-ipv4.png|cabecalho-ipv4.png]]
 
 O protocolo IP implementa duas funções básicas: _endereçamento_ e _fragmentação_.
 
 É importante observarmos que o protocolo IP não possui alguns mecanismos importantes, como garantir a confiabilidade de dados, controle de fluxo, sequenciamento ou correção de erros. Essas responsabilidades são delegadas para as camadas de transporte e de enlace de dados.
 
-![[Untitled 1 46.png|Untitled 1 46.png]]
+![[exemplo-relacionamento-camadas-tcp-ip.png|exemplo-relacionamento-camadas-tcp-ip.png]]
 
 Exemplos de relacionamentos entre as camadas do modelo TCP/IP
 
@@ -121,7 +121,7 @@ Os cabeçalhos possuem informações para transmitir pacotes aos respectivos des
 
 Um datagrama IP é composto por um cabeçalho somado à _PDU_ (protocol data unit, em português: _unidade de dados de protocolo_) da camada de transporte.
 
-![[Untitled 2 36.png|Untitled 2 36.png]]
+![[datagrama-ip.png|datagrama-ip.png]]
 
 O Protocolo IP, utiliza campos no cabeçalho da internet para fragmentar e reagrupar _datagramas_, quando necessário para a transmissão de dados.
 
