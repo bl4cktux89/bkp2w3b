@@ -17,4 +17,3 @@ jobs:
         files: 'blog/**/*.md'
         branch: main
         conventional_commits: true
-        dry_run: false
