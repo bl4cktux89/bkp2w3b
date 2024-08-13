@@ -1,17 +1,20 @@
+name: publish
 on:
   push:
-    branches:
-      - 'main'
-      
-jobs: 
-  runs-on: ubuntu-latest
-  steps:
-  - uses: actions/checkout@v4
-  - name: Publish articles on dev.to
-    uses: sinedied/publish-devto@v2
-    with:
-      devto_key: ${{ secrets.DEVTO_TOKEN }}
-      files: 'blog/**/*.md'
-      branch: main 
-      conventional_commits: true
-      dry_run: false
+    branches: [main]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Publish articles on dev.to
+      uses: sinedied/publish-devto@v2
+      id: publish_devto
+      with:
+        devto_key: ${{ secrets.DEVTO_TOKEN }}
+        files: 'blog/**/*.md'
+        branch: main
+        conventional_commits: true
+        dry_run: false
