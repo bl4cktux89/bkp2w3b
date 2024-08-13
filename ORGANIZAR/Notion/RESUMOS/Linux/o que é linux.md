@@ -1,0 +1,9 @@
+kernel modularizado
+
+regex:
+
+- ?
+- *
+- []
+- {}
+- ^
