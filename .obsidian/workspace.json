@@ -11,9 +11,11 @@
             "id": "ee369dd561a4aab4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_site/assets/minima-social-icons.svg"
+                "file": "rascunhos/Fundamentos de Redes de Computadores.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_site/assets/minima-social-icons.svg",
+                "file": "rascunhos/Fundamentos de Redes de Computadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_site/assets/minima-social-icons.svg",
+                "file": "rascunhos/Fundamentos de Redes de Computadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_site/assets/minima-social-icons.svg"
+                "file": "rascunhos/Fundamentos de Redes de Computadores.md"
               }
             }
           }
@@ -148,13 +150,16 @@
   },
   "active": "efbe9109c632246e",
   "lastOpenFiles": [
+    "posts/introducao-ao-protocolo-ipv4.md",
+    "notas-rapidas/Tipos de Redes.md",
+    "notas-rapidas/Tipos de Dispositivos.md",
+    "notas-rapidas/Serviços e Aplicações de Rede.md",
+    "_site/assets/minima-social-icons.svg",
     "notas-permanentes",
     "notas-de-literatura",
     "_site/README.md",
-    "_site/assets/minima-social-icons.svg",
     "_site/LICENSE.md",
     "_site/notas-rapidas/Serviços e Aplicações de Rede.md",
-    "posts/introducao-ao-protocolo-ipv4.md",
     "_site/jekyll/update/2024/08/13/welcome-to-jekyll.html",
     "_site/jekyll/update/2024/08/13",
     "_site/jekyll/update/2024/08",
@@ -170,7 +175,6 @@
     "_site/posts/anexos/cabecalho-ipv4.png",
     "_site/posts/introducao-ao-protocolo-ipv4.md",
     "_site/posts/anexos",
-    "_site/posts",
     "_site/notas-rapidas/Tipos de Redes.md",
     "_site/notas-rapidas/Tipos de Dispositivos.md",
     "_site/ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Técnicas de Gerenciamento de Projetos - Introdução e Metodologias/Gerenciamento de Escopo, Tempo, Custos e Risco em Projeto/Gestão do escopo do produto e do projeto/O escopo do produto e do projeto.md",
@@ -186,8 +190,6 @@
     "_site/ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Técnicas de Gerenciamento de Projetos - Introdução e Metodologias/Gerenciamento de Escopo, Tempo, Custos e Risco em Projeto/Gestão de tempo do projeto/Estimativa de recursos e duração da atividade.md",
     "_site/ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Técnicas de Gerenciamento de Projetos - Introdução e Metodologias/Gerenciamento de Escopo, Tempo, Custos e Risco em Projeto/Gestão de tempo do projeto/Desenvolvimento e controle do cronograma.md",
     "_site/ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Técnicas de Gerenciamento de Projetos - Introdução e Metodologias/Gerenciamento de Escopo, Tempo, Custos e Risco em Projeto/Gestão de tempo do projeto/Definição e sequenciamento de atividades.md",
-    "_site/ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Técnicas de Gerenciamento de Projetos - Introdução e Metodologias/Gerenciamento de Escopo, Tempo, Custos e Risco em Projeto/Gestão de tempo do projeto/Conclusão.md",
-    "_site/ORGANIZAR/REFINAR/Segurança de Redes de Computadores/Técnicas de Gerenciamento de Projetos - Introdução e Metodologias/Gerenciamento de Escopo, Tempo, Custos e Risco em Projeto/Gestão de custos do projeto/Valor agregado.md",
     "_site/ORGANIZAR/REFINAR/Apple Notes Attachments/Scan Page.jpg",
     "_site/ORGANIZAR/REFINAR/Apple Notes Attachments/FFE91D54-6A4F-455F-8C59-2C82729AD7D4.jpg",
     "_site/ORGANIZAR/REFINAR/Apple Notes Attachments/FF1F1C3E-3D7F-4C6C-B82C-178240EEAEE7.jpg",
