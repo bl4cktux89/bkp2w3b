@@ -27,7 +27,7 @@ twitter_username: bl4cktux89
 github_username:  bl4cktux89
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
