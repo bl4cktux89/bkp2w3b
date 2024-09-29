@@ -27,9 +27,10 @@ twitter_username: bl4cktux89
 github_username:  bl4cktux89
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
