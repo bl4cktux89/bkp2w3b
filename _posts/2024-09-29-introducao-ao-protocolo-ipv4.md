@@ -33,7 +33,7 @@ O modelo _OSI_ (Open Systems Intercommunication, em português, Intercomunica�
 4. Facilitar o aprendizado da arquitetura das redes
 5. Permite que novas tecnologias sejam facilmente implantadas e atualizadas
 
-[![](https://res.cloudinary.com/practicaldev/image/fetch/s--gJjC3ezT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rwahkorw9qk00eb1blt8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gJjC3ezT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rwahkorw9qk00eb1blt8.png)
+<img src="/assets/images/networking/camadas-modelo-osi.png" width="300px"/>
 
 O modelo OSI é estruturado em 7 camadas:
 
@@ -55,7 +55,7 @@ Os protocolos são associados às camadas de acordo com as suas funcionalidades.
 
 O Modelo TCP/IP é composto por uma pilha com camadas interativas, onde cada camada interage com a camada superior e inferior de forma hierárquica, isso significa que protocolos de camadas superiores dependem das inferiores.
 
-[![](https://res.cloudinary.com/practicaldev/image/fetch/s--3-q42n5I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fhc2f9u0h17ugdpomeap.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3-q42n5I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fhc2f9u0h17ugdpomeap.png)
+<img src="/assets/images/networking/camadas-modelo-tcp-ip.png" width="300px"/>
 
 Camadas do Modelo TCP/IP:
 
@@ -66,7 +66,7 @@ Camadas do Modelo TCP/IP:
 
 ### Comparações entre o Modelo OSI e o Modelo TCP/IP
 
-[![](https://res.cloudinary.com/practicaldev/image/fetch/s--DSb5nfAq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zdemjpdd0cliym8mlgxc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DSb5nfAq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zdemjpdd0cliym8mlgxc.png)
+<img src="/assets/images/networking/camadas-modelo-hibrido.png" width="300px"/>
 
 Semelhanças: Camadas de Transporte têm a mesma função nos dois modelos.
 
@@ -78,7 +78,7 @@ Deficiência do TCP/IP: Falta de clareza em conceitos e não abrangência de out
 
 Por esses motivos, Andrew S. Tanenbaum, pesquisador e professor em ciência da computação, propôs um modelo híbrido de 5 camadas. Ele é também autor de livros sobre sistemas operacionais, sistemas distribuídos e redes de computadores. O objetivo desse modelo é aprimorar as deficiências do modelo TCP/IP e eliminar os excessos presentes no modelo OSI.
 
-[![](https://res.cloudinary.com/practicaldev/image/fetch/s--gr0nSDh5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/erjqf2csgwi7rokwig63.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gr0nSDh5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/erjqf2csgwi7rokwig63.png)
+<img src="/assets/images/networking/comparacao-entre-modelos-de-camadas.png" height="300px"/>
 
 ## Problemas resolvidos pela pilha de protocolos TCP/IP
 
@@ -110,14 +110,13 @@ Depois de tudo que foi apresentado, você deve estar se perguntando: "Afinal, po
 
 > O protocolo IP foi projetado para o uso em sistemas baseados em comutação de pacotes e o seu escopo é atender as necessidades básicas para entregar dados partindo de uma origem em direção a um destino.
 
-![Cabeçalho IPv4](/assets/images/networking/1-introducao-ao-protocolo-ipv4/cabecalho-ipv4.png)
+<img src="/assets/images/networking/cabecalho-ipv4.png" height="300px"/>
 
 O protocolo IP implementa duas funções básicas: _endereçamento_ e _fragmentação_.
 
 É importante observarmos que o protocolo IP não possui alguns mecanismos importantes, como garantir a confiabilidade de dados, controle de fluxo, sequenciamento ou correção de erros. Essas responsabilidades são delegadas para as camadas de transporte e de enlace de dados.
 
-![Exemplos de relacionamentos entre as camadas do modelo TCP/IP](/assets/images/networking/1-introducao-ao-protocolo-ipv4/exemplo-relacionamento-camadas-tcp-ip.png)
-Exemplos de relacionamentos entre as camadas do modelo TCP/IP
+<img src="/assets/images/networking/relacionamento-camadas-tcp-ip.png" height="300px"/>
 
 Os cabeçalhos possuem informações para transmitir pacotes aos respectivos destinos. A seleção de um caminho para realizar a transmissão é chamado de _roteamento_.
 
@@ -125,7 +124,7 @@ Os cabeçalhos possuem informações para transmitir pacotes aos respectivos des
 
 Um datagrama IP é composto por um cabeçalho somado à _PDU_ (protocol data unit, em português: _unidade de dados de protocolo_) da camada de transporte.
 
-![Datagrama IP](/assets/images/networking/1-introducao-ao-protocolo-ipv4/datagrama-ip.png)
+<img src="/assets/images/networking/datagrama-ip.png" height="200px"/>
 
 O Protocolo IP, utiliza campos no cabeçalho da internet para fragmentar e reagrupar _datagramas_, quando necessário para a transmissão de dados.
 
